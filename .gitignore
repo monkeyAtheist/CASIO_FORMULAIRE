@@ -1,0 +1,7 @@
+build-cg/
+build-fx/
+*.g3a
+tools/host_sim/formulaire_sim
+tools/tests/check_content
+tools/tests/pages/
+*.ppm
